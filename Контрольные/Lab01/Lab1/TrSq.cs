@@ -16,9 +16,11 @@ namespace Lab1
             double a = P / 3;
             double p = P / 2;
             double S = Math.Sqrt(p * Math.Pow((p - a), 3));
-            string st = String.Format("{0:f2}", a);
-            string pl = String.Format("{0:f2}", S);
-            Console.WriteLine("Сторона\t Площадь\n {0}\t {1}", st ,pl);
+            // string st = String.Format("{0:f2}", a);
+            //string pl = String.Format("{0:f2}", S);
+            //Console.WriteLine("Сторона\t Площадь\n {0}\t {1}", st ,pl);
+            Console.WriteLine("\tСторона\t\tПлощадь"); 
+            Console.WriteLine("\t" + $"{a:.##}" + "\t\t" + $"{S:.##}");
             Console.ReadLine();
         }
     }

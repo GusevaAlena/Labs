@@ -1,0 +1,7 @@
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab2\Lab02-Distance\Lab02-Distance\bin\Debug\Lab02-Distance.exe.config
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab2\Lab02-Distance\Lab02-Distance\bin\Debug\Lab02-Distance.exe
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab2\Lab02-Distance\Lab02-Distance\bin\Debug\Lab02-Distance.pdb
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab2\Lab02-Distance\Lab02-Distance\obj\Debug\Lab02-Distance.csprojAssemblyReference.cache
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab2\Lab02-Distance\Lab02-Distance\obj\Debug\Lab02-Distance.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab2\Lab02-Distance\Lab02-Distance\obj\Debug\Lab02-Distance.exe
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab2\Lab02-Distance\Lab02-Distance\obj\Debug\Lab02-Distance.pdb
