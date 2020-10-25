@@ -1,0 +1,7 @@
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab04\OperationMethod\OperationMethod\obj\Debug\OperationMethod.csprojAssemblyReference.cache
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab04\OperationMethod\OperationMethod\obj\Debug\OperationMethod.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab04\OperationMethod\OperationMethod\bin\Debug\OperationMethod.exe.config
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab04\OperationMethod\OperationMethod\bin\Debug\OperationMethod.exe
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab04\OperationMethod\OperationMethod\bin\Debug\OperationMethod.pdb
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab04\OperationMethod\OperationMethod\obj\Debug\OperationMethod.exe
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab04\OperationMethod\OperationMethod\obj\Debug\OperationMethod.pdb
