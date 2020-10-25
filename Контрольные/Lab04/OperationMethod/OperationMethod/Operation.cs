@@ -9,8 +9,9 @@ namespace OperationMethod
 {
     class Operation
     {
-        public static double TrSqr (double a, double b, double c, double S)
+        public static double TrSqr (double a, double b, double c)
         {
+            double S = 0;
             bool ok;
             ok = Operation.Existance (a, b, c);
             if (ok==true)
@@ -42,8 +43,9 @@ namespace OperationMethod
             }
             return Exist;
         }
-        public static double TrSqr(double a,  double S)
-        {                       
+        public static double TrSqr(double a)
+        {
+            double S = 0;
             double p = a * 3 / 2;
             S = Math.Sqrt(p * Math.Pow((p - a), 3));                         
             return S;

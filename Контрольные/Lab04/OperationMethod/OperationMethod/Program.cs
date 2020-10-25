@@ -18,7 +18,7 @@ namespace OperationMethod
             {
                 Console.Write("Введите длину стороны равностороннего треугольника: ");
                 double storona = double.Parse(Console.ReadLine());
-                SqrEqTr = Operation.TrSqr(storona, SqrEqTr);
+                SqrEqTr = Operation.TrSqr(storona);
                 Console.WriteLine("Площадь равностороннего треугольника = " + $"{SqrEqTr:.##}");
             }
             else if (type=="no")
@@ -29,7 +29,7 @@ namespace OperationMethod
                 double stb = double.Parse(Console.ReadLine());
                 Console.Write("Введите длину стороны c: ");
                 double stc = double.Parse(Console.ReadLine());
-                SqrTr = Operation.TrSqr(sta, stb, stc, SqrTr);
+                SqrTr = Operation.TrSqr(sta, stb, stc);
                 if (SqrTr == 0)
                 {
                     Console.WriteLine(" ");
