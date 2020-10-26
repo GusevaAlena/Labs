@@ -1,0 +1,7 @@
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab04\CalculationOfRoots\CalculationOfRoots\bin\Debug\CalculationOfRoots.exe.config
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab04\CalculationOfRoots\CalculationOfRoots\bin\Debug\CalculationOfRoots.exe
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab04\CalculationOfRoots\CalculationOfRoots\bin\Debug\CalculationOfRoots.pdb
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab04\CalculationOfRoots\CalculationOfRoots\obj\Debug\CalculationOfRoots.csprojAssemblyReference.cache
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab04\CalculationOfRoots\CalculationOfRoots\obj\Debug\CalculationOfRoots.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab04\CalculationOfRoots\CalculationOfRoots\obj\Debug\CalculationOfRoots.exe
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab04\CalculationOfRoots\CalculationOfRoots\obj\Debug\CalculationOfRoots.pdb
