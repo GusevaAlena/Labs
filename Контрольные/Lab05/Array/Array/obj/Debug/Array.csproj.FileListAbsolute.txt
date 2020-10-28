@@ -1,0 +1,7 @@
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab05\Array\Array\bin\Debug\Array.exe.config
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab05\Array\Array\bin\Debug\Array.exe
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab05\Array\Array\bin\Debug\Array.pdb
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab05\Array\Array\obj\Debug\Array.csprojAssemblyReference.cache
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab05\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab05\Array\Array\obj\Debug\Array.exe
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab05\Array\Array\obj\Debug\Array.pdb
