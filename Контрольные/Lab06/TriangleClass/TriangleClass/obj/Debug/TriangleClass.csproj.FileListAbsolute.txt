@@ -1,0 +1,7 @@
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab06\TriangleClass\TriangleClass\obj\Debug\TriangleClass.csprojAssemblyReference.cache
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab06\TriangleClass\TriangleClass\obj\Debug\TriangleClass.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab06\TriangleClass\TriangleClass\bin\Debug\TriangleClass.exe.config
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab06\TriangleClass\TriangleClass\bin\Debug\TriangleClass.exe
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab06\TriangleClass\TriangleClass\bin\Debug\TriangleClass.pdb
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab06\TriangleClass\TriangleClass\obj\Debug\TriangleClass.exe
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab06\TriangleClass\TriangleClass\obj\Debug\TriangleClass.pdb
