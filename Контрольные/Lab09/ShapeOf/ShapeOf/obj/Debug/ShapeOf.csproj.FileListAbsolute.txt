@@ -1,0 +1,7 @@
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab09\ShapeOf\ShapeOf\bin\Debug\ShapeOf.exe.config
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab09\ShapeOf\ShapeOf\bin\Debug\ShapeOf.exe
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab09\ShapeOf\ShapeOf\bin\Debug\ShapeOf.pdb
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab09\ShapeOf\ShapeOf\obj\Debug\ShapeOf.csprojAssemblyReference.cache
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab09\ShapeOf\ShapeOf\obj\Debug\ShapeOf.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab09\ShapeOf\ShapeOf\obj\Debug\ShapeOf.exe
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Lab09\ShapeOf\ShapeOf\obj\Debug\ShapeOf.pdb
