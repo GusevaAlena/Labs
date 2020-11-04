@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ShapeOf
 {
-    interface Rotation
+    interface IRotation
     {
         string Rotate();
         double x { get; set; } //центр фигуры

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ShapeOf
 {
-    class Triangle:Shape, Rotation
+    class Triangle:Shape, IRotation
     {
         private double a;
         private double b;

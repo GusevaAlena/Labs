@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ShapeOf
 {
-    class Square:Shape, Rotation
+    class Square:Shape, IRotation
     {
         public double st;
         public Square(double st)
