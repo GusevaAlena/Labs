@@ -1,0 +1,7 @@
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Зачетное\CompareSystem\CompareSystem\obj\Debug\CompareSystem.csprojAssemblyReference.cache
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Зачетное\CompareSystem\CompareSystem\obj\Debug\CompareSystem.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Зачетное\CompareSystem\CompareSystem\bin\Debug\CompareSystem.exe.config
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Зачетное\CompareSystem\CompareSystem\bin\Debug\CompareSystem.exe
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Зачетное\CompareSystem\CompareSystem\bin\Debug\CompareSystem.pdb
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Зачетное\CompareSystem\CompareSystem\obj\Debug\CompareSystem.exe
+S:\Обучение программированию\Программирование на Csharp\Практика\Контрольные\Зачетное\CompareSystem\CompareSystem\obj\Debug\CompareSystem.pdb
