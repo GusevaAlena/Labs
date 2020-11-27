@@ -1,0 +1,11 @@
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab01\Ex5\ITMO.Lab01.Ex5.2\ITMO.Lab01.Ex5.2\bin\Debug\ITMO.Lab01.Ex5.2.exe.config
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab01\Ex5\ITMO.Lab01.Ex5.2\ITMO.Lab01.Ex5.2\bin\Debug\ITMO.Lab01.Ex5.2.exe
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab01\Ex5\ITMO.Lab01.Ex5.2\ITMO.Lab01.Ex5.2\bin\Debug\ITMO.Lab01.Ex5.2.pdb
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab01\Ex5\ITMO.Lab01.Ex5.2\ITMO.Lab01.Ex5.2\obj\Debug\ITMO.Lab01.Ex5.2.csprojAssemblyReference.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab01\Ex5\ITMO.Lab01.Ex5.2\ITMO.Lab01.Ex5.2\obj\Debug\ITMO.Lab01.Ex5._2.FirstForm.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab01\Ex5\ITMO.Lab01.Ex5.2\ITMO.Lab01.Ex5.2\obj\Debug\ITMO.Lab01.Ex5._2.Properties.Resources.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab01\Ex5\ITMO.Lab01.Ex5.2\ITMO.Lab01.Ex5.2\obj\Debug\ITMO.Lab01.Ex5._2.SecondForm.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab01\Ex5\ITMO.Lab01.Ex5.2\ITMO.Lab01.Ex5.2\obj\Debug\ITMO.Lab01.Ex5.2.csproj.GenerateResource.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab01\Ex5\ITMO.Lab01.Ex5.2\ITMO.Lab01.Ex5.2\obj\Debug\ITMO.Lab01.Ex5.2.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab01\Ex5\ITMO.Lab01.Ex5.2\ITMO.Lab01.Ex5.2\obj\Debug\ITMO.Lab01.Ex5.2.exe
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab01\Ex5\ITMO.Lab01.Ex5.2\ITMO.Lab01.Ex5.2\obj\Debug\ITMO.Lab01.Ex5.2.pdb
