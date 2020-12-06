@@ -63,7 +63,7 @@
             // 
             // dataUserControl1
             // 
-            this.dataUserControl1.BirthDay = new System.DateTime(2020, 12, 6, 2, 22, 35, 638);
+            this.dataUserControl1.BirthDay = new System.DateTime(2020, 12, 6, 0, 0, 0, 0);
             this.dataUserControl1.Email = "";
             this.dataUserControl1.FirstName = "";
             this.dataUserControl1.LastName = "";
@@ -82,6 +82,8 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.richTextBoxUserInfo);
             this.Controls.Add(this.buttonRegistration);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.MaximizeBox = false;
             this.Name = "FormRegistration";
             this.Text = "Регистрация пользователя";
             this.ResumeLayout(false);

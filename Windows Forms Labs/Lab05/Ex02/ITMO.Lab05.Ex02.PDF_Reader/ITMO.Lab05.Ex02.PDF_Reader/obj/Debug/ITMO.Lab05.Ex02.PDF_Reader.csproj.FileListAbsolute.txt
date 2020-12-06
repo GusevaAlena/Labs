@@ -1,0 +1,15 @@
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab05\Ex02\ITMO.Lab05.Ex02.PDF_Reader\ITMO.Lab05.Ex02.PDF_Reader\bin\Debug\ITMO.Lab05.Ex02.PDF_Reader.exe.config
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab05\Ex02\ITMO.Lab05.Ex02.PDF_Reader\ITMO.Lab05.Ex02.PDF_Reader\bin\Debug\ITMO.Lab05.Ex02.PDF_Reader.exe
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab05\Ex02\ITMO.Lab05.Ex02.PDF_Reader\ITMO.Lab05.Ex02.PDF_Reader\bin\Debug\ITMO.Lab05.Ex02.PDF_Reader.pdb
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab05\Ex02\ITMO.Lab05.Ex02.PDF_Reader\ITMO.Lab05.Ex02.PDF_Reader\bin\Debug\Interop.AcroPDFLib.dll
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab05\Ex02\ITMO.Lab05.Ex02.PDF_Reader\ITMO.Lab05.Ex02.PDF_Reader\bin\Debug\AxInterop.AcroPDFLib.dll
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab05\Ex02\ITMO.Lab05.Ex02.PDF_Reader\ITMO.Lab05.Ex02.PDF_Reader\obj\Debug\ITMO.Lab05.Ex02.PDF_Reader.csprojAssemblyReference.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab05\Ex02\ITMO.Lab05.Ex02.PDF_Reader\ITMO.Lab05.Ex02.PDF_Reader\obj\Debug\Interop.AcroPDFLib.dll
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab05\Ex02\ITMO.Lab05.Ex02.PDF_Reader\ITMO.Lab05.Ex02.PDF_Reader\obj\Debug\AxInterop.AcroPDFLib.dll
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab05\Ex02\ITMO.Lab05.Ex02.PDF_Reader\ITMO.Lab05.Ex02.PDF_Reader\obj\Debug\ITMO.Lab05.Ex02.PDF_Reader.csproj.ResolveComReference.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab05\Ex02\ITMO.Lab05.Ex02.PDF_Reader\ITMO.Lab05.Ex02.PDF_Reader\obj\Debug\ITMO.Lab05.Ex02.PDF_Reader.Form1.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab05\Ex02\ITMO.Lab05.Ex02.PDF_Reader\ITMO.Lab05.Ex02.PDF_Reader\obj\Debug\ITMO.Lab05.Ex02.PDF_Reader.Properties.Resources.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab05\Ex02\ITMO.Lab05.Ex02.PDF_Reader\ITMO.Lab05.Ex02.PDF_Reader\obj\Debug\ITMO.Lab05.Ex02.PDF_Reader.csproj.GenerateResource.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab05\Ex02\ITMO.Lab05.Ex02.PDF_Reader\ITMO.Lab05.Ex02.PDF_Reader\obj\Debug\ITMO.Lab05.Ex02.PDF_Reader.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab05\Ex02\ITMO.Lab05.Ex02.PDF_Reader\ITMO.Lab05.Ex02.PDF_Reader\obj\Debug\ITMO.Lab05.Ex02.PDF_Reader.exe
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab05\Ex02\ITMO.Lab05.Ex02.PDF_Reader\ITMO.Lab05.Ex02.PDF_Reader\obj\Debug\ITMO.Lab05.Ex02.PDF_Reader.pdb
