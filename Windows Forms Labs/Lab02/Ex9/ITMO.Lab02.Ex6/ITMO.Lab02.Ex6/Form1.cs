@@ -112,11 +112,7 @@ namespace ITMO.Lab02.Ex6
             get { return (int)numericUpDown4.Value; }
             set { numericUpDown4.Value = value; }
         }
-        //public string Mtitle
-        //{
-        //    get { return textBox4.Text; }
-        //    set { textBox4.Text = value; }
-        //}
+   
         public int Number
         {
             get { return (int)numericUpDown5.Value; }
@@ -127,21 +123,7 @@ namespace ITMO.Lab02.Ex6
             get { return textBox5.Text; }
             set { textBox5.Text = value; }
         }
-        //public int Myear
-        //{
-        //    get { return (int)numericUpDown7.Value; }
-        //    set { numericUpDown7.Value = value; }
-        //}
-        //public int MinvNumber
-        //{
-        //    get { return (int)numericUpDown8.Value; }
-        //    set { numericUpDown8.Value = value; }
-        //}
-        //public bool MExistence
-        //{
-        //    get { return checkBox5.Checked; }
-        //    set { checkBox5.Checked = value; }
-        //}
+
         public bool Subs
         {
             get { return checkBox4.Checked; }

@@ -1,0 +1,11 @@
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab03\Ex04\ITMO.Lab03.Ex4\ITMO.Lab03.Ex4\bin\Debug\ITMO.Lab03.Ex4.exe.config
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab03\Ex04\ITMO.Lab03.Ex4\ITMO.Lab03.Ex4\bin\Debug\ITMO.Lab03.Ex4.exe
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab03\Ex04\ITMO.Lab03.Ex4\ITMO.Lab03.Ex4\bin\Debug\ITMO.Lab03.Ex4.pdb
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab03\Ex04\ITMO.Lab03.Ex4\ITMO.Lab03.Ex4\obj\Debug\ITMO.Lab03.Ex4.DataUserControl.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab03\Ex04\ITMO.Lab03.Ex4\ITMO.Lab03.Ex4\obj\Debug\ITMO.Lab03.Ex4.Properties.Resources.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab03\Ex04\ITMO.Lab03.Ex4\ITMO.Lab03.Ex4\obj\Debug\ITMO.Lab03.Ex4.csproj.GenerateResource.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab03\Ex04\ITMO.Lab03.Ex4\ITMO.Lab03.Ex4\obj\Debug\ITMO.Lab03.Ex4.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab03\Ex04\ITMO.Lab03.Ex4\ITMO.Lab03.Ex4\obj\Debug\ITMO.Lab03.Ex4.exe
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab03\Ex04\ITMO.Lab03.Ex4\ITMO.Lab03.Ex4\obj\Debug\ITMO.Lab03.Ex4.pdb
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab03\Ex04\ITMO.Lab03.Ex4\ITMO.Lab03.Ex4\obj\Debug\ITMO.Lab03.Ex4.FormRegistration.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab03\Ex04\ITMO.Lab03.Ex4\ITMO.Lab03.Ex4\obj\Debug\ITMO.Lab03.Ex4.csprojAssemblyReference.cache
