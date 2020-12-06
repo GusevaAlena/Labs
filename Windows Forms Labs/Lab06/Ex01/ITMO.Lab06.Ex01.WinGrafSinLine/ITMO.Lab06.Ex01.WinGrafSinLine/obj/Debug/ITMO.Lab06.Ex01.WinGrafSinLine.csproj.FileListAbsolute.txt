@@ -1,0 +1,11 @@
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab06\Ex01\ITMO.Lab06.Ex01.WinGrafSinLine\ITMO.Lab06.Ex01.WinGrafSinLine\bin\Debug\ITMO.Lab06.Ex01.WinGrafSinLine.exe.config
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab06\Ex01\ITMO.Lab06.Ex01.WinGrafSinLine\ITMO.Lab06.Ex01.WinGrafSinLine\bin\Debug\ITMO.Lab06.Ex01.WinGrafSinLine.exe
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab06\Ex01\ITMO.Lab06.Ex01.WinGrafSinLine\ITMO.Lab06.Ex01.WinGrafSinLine\bin\Debug\ITMO.Lab06.Ex01.WinGrafSinLine.pdb
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab06\Ex01\ITMO.Lab06.Ex01.WinGrafSinLine\ITMO.Lab06.Ex01.WinGrafSinLine\obj\Debug\ITMO.Lab06.Ex01.WinGrafSinLine.csprojAssemblyReference.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab06\Ex01\ITMO.Lab06.Ex01.WinGrafSinLine\ITMO.Lab06.Ex01.WinGrafSinLine\obj\Debug\ITMO.Lab06.Ex01.WinGrafSinLine.Form1.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab06\Ex01\ITMO.Lab06.Ex01.WinGrafSinLine\ITMO.Lab06.Ex01.WinGrafSinLine\obj\Debug\ITMO.Lab06.Ex01.WinGrafSinLine.Properties.Resources.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab06\Ex01\ITMO.Lab06.Ex01.WinGrafSinLine\ITMO.Lab06.Ex01.WinGrafSinLine\obj\Debug\ITMO.Lab06.Ex01.WinGrafSinLine.csproj.GenerateResource.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab06\Ex01\ITMO.Lab06.Ex01.WinGrafSinLine\ITMO.Lab06.Ex01.WinGrafSinLine\obj\Debug\ITMO.Lab06.Ex01.WinGrafSinLine.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab06\Ex01\ITMO.Lab06.Ex01.WinGrafSinLine\ITMO.Lab06.Ex01.WinGrafSinLine\obj\Debug\ITMO.Lab06.Ex01.WinGrafSinLine.exe
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab06\Ex01\ITMO.Lab06.Ex01.WinGrafSinLine\ITMO.Lab06.Ex01.WinGrafSinLine\obj\Debug\ITMO.Lab06.Ex01.WinGrafSinLine.pdb
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Lab06\Ex01\ITMO.Lab06.Ex01.WinGrafSinLine\ITMO.Lab06.Ex01.WinGrafSinLine\obj\Debug\ITMO.Lab06.Ex01.WinGrafSinLine.Edit.resources

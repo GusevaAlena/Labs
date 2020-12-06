@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.Lab06.Ex03.WindowsFormsChart", "ITMO.Lab06.Ex03.WindowsFormsChart\ITMO.Lab06.Ex03.WindowsFormsChart.csproj", "{DEF50D4C-917B-48E8-B7AF-856CB463553B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF50D4C-917B-48E8-B7AF-856CB463553B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF50D4C-917B-48E8-B7AF-856CB463553B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF50D4C-917B-48E8-B7AF-856CB463553B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF50D4C-917B-48E8-B7AF-856CB463553B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE72B2D6-893E-4166-8F1C-689A10264B4F}
+	EndGlobalSection
+EndGlobal

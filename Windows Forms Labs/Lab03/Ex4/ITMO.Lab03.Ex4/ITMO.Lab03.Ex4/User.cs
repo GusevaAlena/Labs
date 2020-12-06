@@ -24,7 +24,7 @@ namespace ITMO.Lab03.Ex4
         }
         public override string ToString()
         {
-            return "Имя: " + firstName + "\nФамилия: " + lastName + "\nДата рождения: " + birthday + "\nТелефон: " + telnumber + "\nАдрес электронной почты: " + email;
+            return "Имя: " + firstName + "\nФамилия: " + lastName + "\nДата рождения: " + birthday.ToShortDateString() + "\nТелефон: " + telnumber + "\nАдрес электронной почты: " + email;
         }
     }
 }
