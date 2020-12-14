@@ -38,6 +38,9 @@ namespace SimpleCalculator
             this.quadeq_btn = new System.Windows.Forms.Button();
             this.sqr_btn = new System.Windows.Forms.Button();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
+            this.OutputFact = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.SuspendLayout();
             // 
             // stepen_btn
@@ -145,9 +148,44 @@ namespace SimpleCalculator
             this.sqr_btn.UseVisualStyleBackColor = false;
             this.sqr_btn.Click += new System.EventHandler(this.sqr_btn_Click);
             // 
+            // OutputFact
+            // 
+            this.OutputFact.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.OutputFact.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.OutputFact.Location = new System.Drawing.Point(425, 67);
+            this.OutputFact.Name = "OutputFact";
+            this.OutputFact.ReadOnly = true;
+            this.OutputFact.Size = new System.Drawing.Size(157, 35);
+            this.OutputFact.TabIndex = 31;
+            this.OutputFact.TabStop = false;
+            this.OutputFact.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.OutputFact.UseWaitCursor = true;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Courier New", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label1.ForeColor = System.Drawing.Color.DeepPink;
+            this.label1.Location = new System.Drawing.Point(415, 37);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(186, 21);
+            this.label1.TabIndex = 32;
+            this.label1.Text = "Факториал числа:";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // backgroundWorker1
+            // 
+            this.backgroundWorker1.WorkerReportsProgress = true;
+            this.backgroundWorker1.WorkerSupportsCancellation = true;
+            this.backgroundWorker1.DoWork += new System.ComponentModel.DoWorkEventHandler(this.backgroundWorker1_DoWork);
+            this.backgroundWorker1.ProgressChanged += new System.ComponentModel.ProgressChangedEventHandler(this.backgroundWorker1_ProgressChanged);
+            this.backgroundWorker1.RunWorkerCompleted += new System.ComponentModel.RunWorkerCompletedEventHandler(this.backgroundWorker1_RunWorkerCompleted);
+            // 
             // EngiCalc
             // 
             this.ClientSize = new System.Drawing.Size(594, 413);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.OutputFact);
             this.Controls.Add(this.sqr_btn);
             this.Controls.Add(this.quadeq_btn);
             this.Controls.Add(this.factorial_btn);
@@ -165,6 +203,8 @@ namespace SimpleCalculator
             this.Controls.SetChildIndex(this.factorial_btn, 0);
             this.Controls.SetChildIndex(this.quadeq_btn, 0);
             this.Controls.SetChildIndex(this.sqr_btn, 0);
+            this.Controls.SetChildIndex(this.OutputFact, 0);
+            this.Controls.SetChildIndex(this.label1, 0);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -179,5 +219,8 @@ namespace SimpleCalculator
         private System.Windows.Forms.Button quadeq_btn;
         private System.Windows.Forms.Button sqr_btn;
         private System.Windows.Forms.ToolTip toolTip1;
+        private System.Windows.Forms.TextBox OutputFact;
+        private System.Windows.Forms.Label label1;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
