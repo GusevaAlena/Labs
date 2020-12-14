@@ -1,0 +1,11 @@
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\CalculatorEngine\bin\Release\CalculatorEngine.dll
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\CalculatorEngine\obj\Release\CalculatorEngine.csproj.CoreCompileInputs.cache
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\CalculatorEngine\obj\Release\CalculatorEngine.dll
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Windows Forms\Calculator_starter\CalculatorEngine\bin\Release\CalculatorEngine.dll
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Windows Forms\Calculator_starter\CalculatorEngine\obj\Release\CalculatorEngine.csprojAssemblyReference.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Windows Forms\Calculator_starter\CalculatorEngine\obj\Release\CalculatorEngine.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Windows Forms\Calculator_starter\CalculatorEngine\obj\Release\CalculatorEngine.dll
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_starter\CalculatorEngine\bin\Release\CalculatorEngine.dll
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_starter\CalculatorEngine\obj\Release\CalculatorEngine.csprojAssemblyReference.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_starter\CalculatorEngine\obj\Release\CalculatorEngine.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_starter\CalculatorEngine\obj\Release\CalculatorEngine.dll

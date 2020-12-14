@@ -1,0 +1,64 @@
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\obj\Debug\SimpleCalculator.CalcUI.resources
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\bin\Debug\WindowsCalculator.exe
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\bin\Debug\WindowsCalculator.pdb
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\bin\Debug\CalculatorEngine.dll
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\bin\Debug\CalculatorEngine.pdb
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\obj\Debug\WindowsCalculator.csproj.CopyComplete
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\obj\Debug\WindowsCalculator.exe
+C:\Users\bayes\Desktop\Windows_App\Calculator_starter_2\Starter_new\obj\Debug\WindowsCalculator.pdb
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Calculator_starter\bin\Debug\WindowsCalculator.exe
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Calculator_starter\bin\Debug\WindowsCalculator.pdb
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Calculator_starter\bin\Debug\CalculatorEngine.dll
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Calculator_starter\bin\Debug\CalculatorEngine.pdb
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Calculator_starter\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Calculator_starter\obj\Debug\SimpleCalculator.CalcUI.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Calculator_starter\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Calculator_starter\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Calculator_starter\obj\Debug\WindowsCalculator.csproj.CopyComplete
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Calculator_starter\obj\Debug\WindowsCalculator.exe
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Calculator_starter\obj\Debug\WindowsCalculator.pdb
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Windows Forms\Calculator_starter\bin\Debug\WindowsCalculator.exe
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Windows Forms\Calculator_starter\bin\Debug\WindowsCalculator.pdb
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Windows Forms\Calculator_starter\bin\Debug\CalculatorEngine.dll
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Windows Forms\Calculator_starter\bin\Debug\CalculatorEngine.pdb
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Windows Forms\Calculator_starter\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Windows Forms\Calculator_starter\obj\Debug\SimpleCalculator.CalcUI.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Windows Forms\Calculator_starter\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Windows Forms\Calculator_starter\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Windows Forms\Calculator_starter\obj\Debug\WindowsCalculator.csproj.CopyComplete
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Windows Forms\Calculator_starter\obj\Debug\WindowsCalculator.exe
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Windows Forms\Calculator_starter\obj\Debug\WindowsCalculator.pdb
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Windows Forms\Calculator_starter\obj\Debug\SimpleCalculator.EngiCalc.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Windows Forms\Calculator_starter\obj\Debug\SimpleCalculator.Properties.Resources.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\Windows Forms\Calculator_starter\obj\Debug\SimpleCalculator.QuadEqForm.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_starter\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_starter\obj\Debug\SimpleCalculator.CalcUI.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_starter\obj\Debug\SimpleCalculator.EngiCalc.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_starter\obj\Debug\SimpleCalculator.Properties.Resources.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_starter\obj\Debug\SimpleCalculator.QuadEqForm.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_starter\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_starter\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_starter\obj\Debug\WindowsCalculator.exe
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_starter\obj\Debug\WindowsCalculator.pdb
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_starter\bin\Debug\WindowsCalculator.exe.config
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_starter\bin\Debug\WindowsCalculator.exe
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_starter\bin\Debug\WindowsCalculator.pdb
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_starter\bin\Debug\CalculatorEngine.dll
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_starter\obj\Debug\WindowsCalculator.csproj.CopyComplete
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_exam\bin\Debug\WindowsCalculator.exe.config
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_exam\bin\Debug\WindowsCalculator.exe
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_exam\bin\Debug\WindowsCalculator.pdb
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_exam\bin\Debug\CalculatorEngine.dll
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_exam\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_exam\obj\Debug\SimpleCalculator.CalcUI.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_exam\obj\Debug\SimpleCalculator.EngiCalc.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_exam\obj\Debug\SimpleCalculator.Properties.Resources.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_exam\obj\Debug\SimpleCalculator.QuadEqForm.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_exam\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_exam\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_exam\obj\Debug\WindowsCalculator.csproj.CopyComplete
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_exam\obj\Debug\WindowsCalculator.exe
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Calculator_exam\obj\Debug\WindowsCalculator.pdb
