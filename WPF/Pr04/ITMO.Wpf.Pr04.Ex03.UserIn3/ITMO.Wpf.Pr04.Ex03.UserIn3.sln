@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.Wpf.Pr04.Ex03.UserIn3", "ITMO.Wpf.Pr04.Ex03.UserIn3\ITMO.Wpf.Pr04.Ex03.UserIn3.csproj", "{78A0AFCD-8A6A-4172-AF47-09283F50DA20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78A0AFCD-8A6A-4172-AF47-09283F50DA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A0AFCD-8A6A-4172-AF47-09283F50DA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A0AFCD-8A6A-4172-AF47-09283F50DA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A0AFCD-8A6A-4172-AF47-09283F50DA20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AEEE8D4-F54A-46D2-912E-68314802AB8F}
+	EndGlobalSection
+EndGlobal

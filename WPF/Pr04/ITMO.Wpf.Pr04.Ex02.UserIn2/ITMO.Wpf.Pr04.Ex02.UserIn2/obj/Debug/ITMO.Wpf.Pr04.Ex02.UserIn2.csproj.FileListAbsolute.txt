@@ -1,0 +1,15 @@
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\WPF\Pr04\ITMO.Wpf.Pr04.Ex02.UserIn2\ITMO.Wpf.Pr04.Ex02.UserIn2\bin\Debug\ITMO.Wpf.Pr04.Ex02.UserIn2.exe.config
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\WPF\Pr04\ITMO.Wpf.Pr04.Ex02.UserIn2\ITMO.Wpf.Pr04.Ex02.UserIn2\bin\Debug\ITMO.Wpf.Pr04.Ex02.UserIn2.exe
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\WPF\Pr04\ITMO.Wpf.Pr04.Ex02.UserIn2\ITMO.Wpf.Pr04.Ex02.UserIn2\bin\Debug\ITMO.Wpf.Pr04.Ex02.UserIn2.pdb
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\WPF\Pr04\ITMO.Wpf.Pr04.Ex02.UserIn2\ITMO.Wpf.Pr04.Ex02.UserIn2\obj\Debug\ITMO.Wpf.Pr04.Ex02.UserIn2.csprojAssemblyReference.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\WPF\Pr04\ITMO.Wpf.Pr04.Ex02.UserIn2\ITMO.Wpf.Pr04.Ex02.UserIn2\obj\Debug\MainWindow.g.cs
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\WPF\Pr04\ITMO.Wpf.Pr04.Ex02.UserIn2\ITMO.Wpf.Pr04.Ex02.UserIn2\obj\Debug\App.g.cs
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\WPF\Pr04\ITMO.Wpf.Pr04.Ex02.UserIn2\ITMO.Wpf.Pr04.Ex02.UserIn2\obj\Debug\ITMO.Wpf.Pr04.Ex02.UserIn2_MarkupCompile.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\WPF\Pr04\ITMO.Wpf.Pr04.Ex02.UserIn2\ITMO.Wpf.Pr04.Ex02.UserIn2\obj\Debug\ITMO.Wpf.Pr04.Ex02.UserIn2_MarkupCompile.lref
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\WPF\Pr04\ITMO.Wpf.Pr04.Ex02.UserIn2\ITMO.Wpf.Pr04.Ex02.UserIn2\obj\Debug\MainWindow.baml
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\WPF\Pr04\ITMO.Wpf.Pr04.Ex02.UserIn2\ITMO.Wpf.Pr04.Ex02.UserIn2\obj\Debug\ITMO.Wpf.Pr04.Ex02.UserIn2.g.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\WPF\Pr04\ITMO.Wpf.Pr04.Ex02.UserIn2\ITMO.Wpf.Pr04.Ex02.UserIn2\obj\Debug\ITMO.Wpf.Pr04.Ex02.UserIn2.Properties.Resources.resources
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\WPF\Pr04\ITMO.Wpf.Pr04.Ex02.UserIn2\ITMO.Wpf.Pr04.Ex02.UserIn2\obj\Debug\ITMO.Wpf.Pr04.Ex02.UserIn2.csproj.GenerateResource.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\WPF\Pr04\ITMO.Wpf.Pr04.Ex02.UserIn2\ITMO.Wpf.Pr04.Ex02.UserIn2\obj\Debug\ITMO.Wpf.Pr04.Ex02.UserIn2.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\WPF\Pr04\ITMO.Wpf.Pr04.Ex02.UserIn2\ITMO.Wpf.Pr04.Ex02.UserIn2\obj\Debug\ITMO.Wpf.Pr04.Ex02.UserIn2.exe
+S:\Обучение программированию\Разработка Windows-приложений на Csharp\Практика\WPF\Pr04\ITMO.Wpf.Pr04.Ex02.UserIn2\ITMO.Wpf.Pr04.Ex02.UserIn2\obj\Debug\ITMO.Wpf.Pr04.Ex02.UserIn2.pdb

@@ -1,0 +1,27 @@
+﻿<Window x:Class="ITMO.Wpf.Pr03.Ex01.NCommand.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ITMO.Wpf.Pr03.Ex01.NCommand"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Menu HorizontalAlignment="Left" Height="24" VerticalAlignment="Bottom" Width="793" Margin="0,0,0,392.667">
+            <MenuItem Header="Правка">
+                <MenuItem Header="Копировать" CommandTarget="{Binding ElementName=MainWindow}" Command="Copy"/>
+                <MenuItem Header="Вырезать" CommandTarget="{Binding ElementName=MainWindom}" Command="Cut"/>
+                <MenuItem Header="Вставить" CommandTarget="{Binding ElementName=MainWindow}" Command="Paste"/>
+            </MenuItem>
+        </Menu>
+        <TextBox HorizontalAlignment="Left" Height="26" Margin="0,25,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="793"/>
+        <RichTextBox HorizontalAlignment="Left" Height="370" Margin="0,51,0,-0.333" VerticalAlignment="Top" Width="793">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="RichTextBox"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>
