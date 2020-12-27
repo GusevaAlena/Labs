@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<resume>
+	<candidate id="a">
+		<FirstName>Иван</FirstName>
+		<LastName>Иванов</LastName>
+		<PatronymicName>Иванович</PatronymicName>
+		<WorkPlace>ЦНИИ КМ Прометей</WorkPlace>
+		<Position>ведущий инженер</Position>		
+		<Birthday>01.02.1978</Birthday>
+		<Education>Высшее</Education>
+		<Address>СПб, пр.Науки 30-170</Address>
+		<PhoneNumber>765-33-12</PhoneNumber>
+		<FamilyStatus>женат</FamilyStatus>
+		<DesiredSalary Currency="RUR">75000</DesiredSalary>
+	</candidate>
+	<candidate id="b">
+		<FirstName>Ольга</FirstName>
+		<LastName>Петрова</LastName>
+		<PatronymicName>Васильевна</PatronymicName>
+		<WorkPlace>ОМЗ Спецсталь</WorkPlace>
+		<Position>инженер 1 категории</Position>
+		<Birthday>10.10.1985</Birthday>
+		<Education>Высшее</Education>
+		<Address>СПб, пр.Солидарности 40-12</Address>
+		<PhoneNumber>987-65-34</PhoneNumber>
+		<FamilyStatus>не замужем</FamilyStatus>
+		<DesiredSalary Currency="RUR">60000</DesiredSalary>
+	</candidate>
+	<candidate id="c">
+		<FirstName>Борис</FirstName>
+		<LastName>Сидоренко</LastName>
+		<PatronymicName>Николаевич</PatronymicName>
+		<WorkPlace>ПАО Ижорские заводы</WorkPlace>
+		<Position>Начальник отдела сертификации</Position>
+		<Birthday>15.06.1980</Birthday>
+		<Education>Высшее</Education>
+		<Address>СПБ, ул.Политехническая 36-54</Address>
+		<PhoneNumber>654-11-45</PhoneNumber>
+		<FamilyStatus>женат</FamilyStatus>
+		<DesiredSalary Currency="RUR">120000</DesiredSalary>
+	</candidate>
+</resume>

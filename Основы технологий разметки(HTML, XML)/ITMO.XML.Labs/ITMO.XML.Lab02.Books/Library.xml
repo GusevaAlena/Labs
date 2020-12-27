@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE library SYSTEM "Library_DTD.dtd">
+<library>
+	
+	<book_catalog>
+		<book id="id3452" isbn="0-201-70225-8" year="2002" issue="translation">
+			<authors>
+				<author>А.Коберн</author>
+			</authors>
+			<title>Современные методы описания функциональных требований к системам</title>
+			<publishing>Лори</publishing>			
+		</book>
+		<book id="id3453" isbn="978-5-6040723-1-8" year="2018" issue="translation">
+			<authors>
+				<author>Э.Троелсен</author>
+				<author>Ф.Джепикс</author>
+			</authors>
+			<title>Язык программирования C#7 и платформы .NET и .NET Core</title>
+			<publishing>Диалектика</publishing>
+		</book>
+		<book id="id3454" isbn="5-318-00358-3" year="2002" issue="translation">
+			<authors>
+				<author>Г.Буч</author>
+				<author>Дж.Рамбос</author>
+				<author>И.Якобсон</author>
+			</authors>
+			<title>Унифицированный процесс разработки программного обеспечения</title>
+			<publishing>Питер</publishing>
+		</book>
+	</book_catalog>
+	
+	<author_catalog>
+		<author_book idref="id3452"></author_book>
+		<author_book idref="id3453"></author_book>
+		<author_book idref="id3454"></author_book>
+	</author_catalog>
+
+</library>
+

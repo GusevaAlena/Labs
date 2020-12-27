@@ -1,0 +1,9 @@
+﻿<!ELEMENT schedule (lesson+)>
+<!ELEMENT lesson (title,DateOfFirstlesson,DateOfLastlesson,lecturer,numberOfHours,result)>
+<!ATTLIST lesson id ID #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT DateOfFirstlesson (#PCDATA)>
+<!ELEMENT DateOfLastlesson (#PCDATA)>
+<!ELEMENT lecturer (#PCDATA)>
+<!ELEMENT numberOfHours (#PCDATA)>
+<!ELEMENT result (#PCDATA)>

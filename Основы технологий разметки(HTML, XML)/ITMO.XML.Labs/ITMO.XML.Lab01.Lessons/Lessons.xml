@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE schedule SYSTEM "Lessons_DTD.dtd">
+<schedule>
+	<lesson id="id1">
+		<title>Технологии программирования</title>
+		<DateOfFirstlesson>29.09.2020</DateOfFirstlesson>
+		<DateOfLastlesson>16.10.2020</DateOfLastlesson>
+		<lecturer>Осипов Н.А.</lecturer>
+		<numberOfHours>50</numberOfHours>
+		<result>зачет</result>
+	</lesson>
+	<lesson id="id2">
+		<title>Програмирование на C#</title>
+		<DateOfFirstlesson>19.10.2020</DateOfFirstlesson>
+		<DateOfLastlesson>06.11.2020</DateOfLastlesson>
+		<lecturer>Осипов Н.А.</lecturer>
+		<numberOfHours>50</numberOfHours>
+		<result>зачет</result>
+	</lesson>
+	<lesson id="id3">
+		<title>Введение в базы данных</title>
+		<DateOfFirstlesson>09.11.2020</DateOfFirstlesson>
+		<DateOfLastlesson>20.11.2020</DateOfLastlesson>
+		<lecturer>Осетрова И.С.</lecturer>
+		<numberOfHours>30</numberOfHours>
+		<result>зачет</result>
+	</lesson>
+	<lesson id="id4">
+		<title>Разработка Windows-приложений на C#</title>
+		<DateOfFirstlesson>23.11.2020</DateOfFirstlesson>
+		<DateOfLastlesson>17.12.2020</DateOfLastlesson>
+		<lecturer>Смольянинов А.В.</lecturer>
+		<numberOfHours>50</numberOfHours>
+		<result>экзамен</result>
+	</lesson>
+	<lesson id="id5">
+		<title>Основы технологий разметки(HTML,XML)</title>
+		<DateOfFirstlesson>18.12.2020</DateOfFirstlesson>
+		<DateOfLastlesson>28.12.2020</DateOfLastlesson>
+		<lecturer>Смольянинов А.В.</lecturer>
+		<numberOfHours>20</numberOfHours>
+		<result>зачет</result>
+	</lesson>
+	<lesson id="id6">
+		<title>Transact-SQL и разработка Microsoft SQL Server</title>
+		<DateOfFirstlesson>11.01.2021</DateOfFirstlesson>
+		<DateOfLastlesson>05.02.2021</DateOfLastlesson>
+		<lecturer>Ямщиков Д.В.</lecturer>
+		<numberOfHours>60</numberOfHours>
+		<result>экзамен</result>
+	</lesson>
+</schedule>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<les:schedule xmlns:les="http://www.itmo.ru/xml/lessons" xmlns:lit="http://www.itmo.ru/xml/literature">
+	<les:lesson id="1">
+		<les:title>Технологии программирования</les:title>
+		<les:DateOfFirstlesson>29.09.2020</les:DateOfFirstlesson>
+		<les:DateOfLastlesson>16.10.2020</les:DateOfLastlesson>
+		<les:lecturer>Осипов Н.А.</les:lecturer>
+		<les:numberOfHours>50</les:numberOfHours>
+		<les:result>зачет</les:result>
+		<lit:books>
+			<lit:book id="1.1">
+				<lit:author>А.Коберн</lit:author>
+				<lit:title>Современные методы описания функциональных требований к системам</lit:title>
+			</lit:book>
+			<lit:book id="1.2">
+				<lit:author>Г.Буч,Дж.Рамбо,И.Якобсон</lit:author>
+				<lit:title>Введение в UML</lit:title>
+			</lit:book>
+		</lit:books>
+	</les:lesson>
+	<les:lesson id="2">
+		<les:title>Програмирование на C#</les:title>
+		<les:DateOfFirstlesson>19.10.2020</les:DateOfFirstlesson>
+		<les:DateOfLastlesson>06.11.2020</les:DateOfLastlesson>
+		<les:lecturer>Осипов Н.А.</les:lecturer>
+		<les:numberOfHours>50</les:numberOfHours>
+		<les:result>зачет</les:result>
+		<lit:books>
+			<lit:book id="2.1">
+				<lit:author>Ч.Петцольд</lit:author>
+				<lit:title>Программирование в тональности C#</lit:title>
+			</lit:book>
+			<lit:book id="2.2">
+				<lit:author>Э.Троелсен,Ф.Джепикс</lit:author>
+				<lit:title>Язык программирования С#7 и платформы .NET и .NET Core</lit:title>
+			</lit:book>
+		</lit:books>
+	</les:lesson>
+	<les:lesson id="3">
+		<les:title>Введение в базы данных</les:title>
+		<les:DateOfFirstlesson>09.11.2020</les:DateOfFirstlesson>
+		<les:DateOfLastlesson>20.11.2020</les:DateOfLastlesson>
+		<les:lecturer>Осетрова И.С.</les:lecturer>
+		<les:numberOfHours>30</les:numberOfHours>
+		<les:result>зачет</les:result>
+	</les:lesson>
+	<les:lesson id="4">
+		<les:title>Разработка Windows-приложений на C#</les:title>
+		<les:DateOfFirstlesson>23.11.2020</les:DateOfFirstlesson>
+		<les:DateOfLastlesson>17.12.2020</les:DateOfLastlesson>
+		<les:lecturer>Смольянинов А.В.</les:lecturer>
+		<les:numberOfHours>50</les:numberOfHours>
+		<les:result>экзамен</les:result>	
+		<lit:book>
+			<lit:author>К.Андерсон</lit:author>
+			<lit:title>Основы Windows Presentation Foundation</lit:title>
+		</lit:book>		
+	</les:lesson>
+	<les:lesson id="5">
+		<les:title>Основы технологий разметки(HTML,XML)</les:title>
+		<les:DateOfFirstlesson>18.12.2020</les:DateOfFirstlesson>
+		<les:DateOfLastlesson>28.12.2020</les:DateOfLastlesson>
+		<les:lecturer>Смольянинов А.В.</les:lecturer>
+		<les:numberOfHours>20</les:numberOfHours>
+		<les:result>зачет</les:result>
+		<lit:book>
+			<lit:author>Дж.Даккет</lit:author>
+			<lit:title>Все, что нужно знать для создания первоклассных сайтов HTML и CSS</lit:title>
+		</lit:book>
+	</les:lesson>	
+</les:schedule>
