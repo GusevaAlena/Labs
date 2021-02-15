@@ -1,0 +1,10 @@
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.WorkingDataTable\bin\Debug\ITMO.ADO.NET.WorkingDataTable.exe.config
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.WorkingDataTable\bin\Debug\ITMO.ADO.NET.WorkingDataTable.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.WorkingDataTable\bin\Debug\ITMO.ADO.NET.WorkingDataTable.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.WorkingDataTable\obj\Debug\ITMO.ADO.NET.WorkingDataTable.csprojAssemblyReference.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.WorkingDataTable\obj\Debug\ITMO.ADO.NET.WorkingDataTable.Form1.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.WorkingDataTable\obj\Debug\ITMO.ADO.NET.WorkingDataTable.Properties.Resources.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.WorkingDataTable\obj\Debug\ITMO.ADO.NET.WorkingDataTable.csproj.GenerateResource.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.WorkingDataTable\obj\Debug\ITMO.ADO.NET.WorkingDataTable.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.WorkingDataTable\obj\Debug\ITMO.ADO.NET.WorkingDataTable.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.WorkingDataTable\obj\Debug\ITMO.ADO.NET.WorkingDataTable.pdb

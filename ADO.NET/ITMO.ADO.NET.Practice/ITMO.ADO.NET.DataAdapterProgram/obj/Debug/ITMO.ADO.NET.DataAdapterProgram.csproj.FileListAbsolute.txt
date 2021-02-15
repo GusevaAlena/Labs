@@ -1,0 +1,10 @@
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataAdapterProgram\bin\Debug\ITMO.ADO.NET.DataAdapterProgram.exe.config
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataAdapterProgram\bin\Debug\ITMO.ADO.NET.DataAdapterProgram.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataAdapterProgram\bin\Debug\ITMO.ADO.NET.DataAdapterProgram.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataAdapterProgram\obj\Debug\ITMO.ADO.NET.DataAdapterProgram.csprojAssemblyReference.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataAdapterProgram\obj\Debug\ITMO.ADO.NET.DataAdapterProgram.Form1.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataAdapterProgram\obj\Debug\ITMO.ADO.NET.DataAdapterProgram.Properties.Resources.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataAdapterProgram\obj\Debug\ITMO.ADO.NET.DataAdapterProgram.csproj.GenerateResource.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataAdapterProgram\obj\Debug\ITMO.ADO.NET.DataAdapterProgram.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataAdapterProgram\obj\Debug\ITMO.ADO.NET.DataAdapterProgram.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataAdapterProgram\obj\Debug\ITMO.ADO.NET.DataAdapterProgram.pdb

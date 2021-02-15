@@ -1,0 +1,10 @@
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataViewExample\bin\Debug\ITMO.ADO.NET.DataViewExample.exe.config
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataViewExample\bin\Debug\ITMO.ADO.NET.DataViewExample.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataViewExample\bin\Debug\ITMO.ADO.NET.DataViewExample.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataViewExample\obj\Debug\ITMO.ADO.NET.DataViewExample.csprojAssemblyReference.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataViewExample\obj\Debug\ITMO.ADO.NET.DataViewExample.Form1.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataViewExample\obj\Debug\ITMO.ADO.NET.DataViewExample.Properties.Resources.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataViewExample\obj\Debug\ITMO.ADO.NET.DataViewExample.csproj.GenerateResource.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataViewExample\obj\Debug\ITMO.ADO.NET.DataViewExample.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataViewExample\obj\Debug\ITMO.ADO.NET.DataViewExample.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataViewExample\obj\Debug\ITMO.ADO.NET.DataViewExample.pdb

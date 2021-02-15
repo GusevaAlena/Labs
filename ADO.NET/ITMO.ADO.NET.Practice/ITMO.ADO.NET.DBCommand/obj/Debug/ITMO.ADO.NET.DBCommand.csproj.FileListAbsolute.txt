@@ -1,0 +1,10 @@
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DBCommand\bin\Debug\ITMO.ADO.NET.DBCommand.exe.config
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DBCommand\bin\Debug\ITMO.ADO.NET.DBCommand.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DBCommand\bin\Debug\ITMO.ADO.NET.DBCommand.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DBCommand\obj\Debug\ITMO.ADO.NET.DBCommand.csprojAssemblyReference.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DBCommand\obj\Debug\ITMO.ADO.NET.DBCommand.Form1.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DBCommand\obj\Debug\ITMO.ADO.NET.DBCommand.Properties.Resources.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DBCommand\obj\Debug\ITMO.ADO.NET.DBCommand.csproj.GenerateResource.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DBCommand\obj\Debug\ITMO.ADO.NET.DBCommand.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DBCommand\obj\Debug\ITMO.ADO.NET.DBCommand.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DBCommand\obj\Debug\ITMO.ADO.NET.DBCommand.pdb

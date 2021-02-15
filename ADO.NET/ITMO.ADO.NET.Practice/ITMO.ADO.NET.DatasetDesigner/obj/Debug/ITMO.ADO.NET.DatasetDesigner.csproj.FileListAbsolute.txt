@@ -1,0 +1,10 @@
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DatasetDesigner\bin\Debug\ITMO.ADO.NET.DatasetDesigner.exe.config
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DatasetDesigner\bin\Debug\ITMO.ADO.NET.DatasetDesigner.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DatasetDesigner\bin\Debug\ITMO.ADO.NET.DatasetDesigner.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DatasetDesigner\obj\Debug\ITMO.ADO.NET.DatasetDesigner.Properties.Resources.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DatasetDesigner\obj\Debug\ITMO.ADO.NET.DatasetDesigner.csproj.GenerateResource.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DatasetDesigner\obj\Debug\ITMO.ADO.NET.DatasetDesigner.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DatasetDesigner\obj\Debug\ITMO.ADO.NET.DatasetDesigner.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DatasetDesigner\obj\Debug\ITMO.ADO.NET.DatasetDesigner.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DatasetDesigner\obj\Debug\ITMO.ADO.NET.DatasetDesigner.Form1.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DatasetDesigner\obj\Debug\ITMO.ADO.NET.DatasetDesigner.csprojAssemblyReference.cache

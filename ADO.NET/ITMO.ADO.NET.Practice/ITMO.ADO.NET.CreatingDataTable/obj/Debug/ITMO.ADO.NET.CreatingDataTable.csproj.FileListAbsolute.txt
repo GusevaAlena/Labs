@@ -1,0 +1,10 @@
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.CreatingDataTable\bin\Debug\ITMO.ADO.NET.CreatingDataTable.exe.config
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.CreatingDataTable\bin\Debug\ITMO.ADO.NET.CreatingDataTable.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.CreatingDataTable\bin\Debug\ITMO.ADO.NET.CreatingDataTable.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.CreatingDataTable\obj\Debug\ITMO.ADO.NET.CreatingDataTable.csprojAssemblyReference.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.CreatingDataTable\obj\Debug\ITMO.ADO.NET.CreatingDataTable.Form1.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.CreatingDataTable\obj\Debug\ITMO.ADO.NET.CreatingDataTable.Properties.Resources.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.CreatingDataTable\obj\Debug\ITMO.ADO.NET.CreatingDataTable.csproj.GenerateResource.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.CreatingDataTable\obj\Debug\ITMO.ADO.NET.CreatingDataTable.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.CreatingDataTable\obj\Debug\ITMO.ADO.NET.CreatingDataTable.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.CreatingDataTable\obj\Debug\ITMO.ADO.NET.CreatingDataTable.pdb
