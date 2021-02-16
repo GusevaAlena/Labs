@@ -1,0 +1,9 @@
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.SavingDataSetXml\bin\Debug\ITMO.ADO.NET.SavingDataSetXml.exe.config
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.SavingDataSetXml\bin\Debug\ITMO.ADO.NET.SavingDataSetXml.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.SavingDataSetXml\bin\Debug\ITMO.ADO.NET.SavingDataSetXml.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.SavingDataSetXml\obj\Debug\ITMO.ADO.NET.SavingDataSetXml.Form1.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.SavingDataSetXml\obj\Debug\ITMO.ADO.NET.SavingDataSetXml.Properties.Resources.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.SavingDataSetXml\obj\Debug\ITMO.ADO.NET.SavingDataSetXml.csproj.GenerateResource.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.SavingDataSetXml\obj\Debug\ITMO.ADO.NET.SavingDataSetXml.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.SavingDataSetXml\obj\Debug\ITMO.ADO.NET.SavingDataSetXml.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.SavingDataSetXml\obj\Debug\ITMO.ADO.NET.SavingDataSetXml.pdb

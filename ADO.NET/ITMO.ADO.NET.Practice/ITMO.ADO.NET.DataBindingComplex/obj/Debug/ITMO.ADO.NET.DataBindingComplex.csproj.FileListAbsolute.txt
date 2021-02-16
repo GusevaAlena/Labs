@@ -1,0 +1,9 @@
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataBindingComplex\bin\Debug\ITMO.ADO.NET.DataBindingComplex.exe.config
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataBindingComplex\bin\Debug\ITMO.ADO.NET.DataBindingComplex.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataBindingComplex\bin\Debug\ITMO.ADO.NET.DataBindingComplex.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataBindingComplex\obj\Debug\ITMO.ADO.NET.DataBindingComplex.Properties.Resources.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataBindingComplex\obj\Debug\ITMO.ADO.NET.DataBindingComplex.csproj.GenerateResource.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataBindingComplex\obj\Debug\ITMO.ADO.NET.DataBindingComplex.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataBindingComplex\obj\Debug\ITMO.ADO.NET.DataBindingComplex.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataBindingComplex\obj\Debug\ITMO.ADO.NET.DataBindingComplex.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataBindingComplex\obj\Debug\ITMO.ADO.NET.DataBindingComplex.Form1.resources

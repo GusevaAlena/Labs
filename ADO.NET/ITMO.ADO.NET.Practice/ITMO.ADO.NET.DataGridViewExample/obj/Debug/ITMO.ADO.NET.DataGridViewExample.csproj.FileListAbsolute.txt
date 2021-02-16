@@ -1,0 +1,10 @@
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataGridViewExample\bin\Debug\ITMO.ADO.NET.DataGridViewExample.exe.config
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataGridViewExample\bin\Debug\ITMO.ADO.NET.DataGridViewExample.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataGridViewExample\bin\Debug\ITMO.ADO.NET.DataGridViewExample.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataGridViewExample\obj\Debug\ITMO.ADO.NET.DataGridViewExample.csprojAssemblyReference.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataGridViewExample\obj\Debug\ITMO.ADO.NET.DataGridViewExample.Form1.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataGridViewExample\obj\Debug\ITMO.ADO.NET.DataGridViewExample.Properties.Resources.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataGridViewExample\obj\Debug\ITMO.ADO.NET.DataGridViewExample.csproj.GenerateResource.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataGridViewExample\obj\Debug\ITMO.ADO.NET.DataGridViewExample.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataGridViewExample\obj\Debug\ITMO.ADO.NET.DataGridViewExample.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataGridViewExample\obj\Debug\ITMO.ADO.NET.DataGridViewExample.pdb

@@ -1,0 +1,9 @@
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LoadDataSetXml\bin\Debug\ITMO.ADO.NET.LoadDataSetXml.exe.config
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LoadDataSetXml\bin\Debug\ITMO.ADO.NET.LoadDataSetXml.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LoadDataSetXml\bin\Debug\ITMO.ADO.NET.LoadDataSetXml.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LoadDataSetXml\obj\Debug\ITMO.ADO.NET.LoadDataSetXml.Form1.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LoadDataSetXml\obj\Debug\ITMO.ADO.NET.LoadDataSetXml.Properties.Resources.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LoadDataSetXml\obj\Debug\ITMO.ADO.NET.LoadDataSetXml.csproj.GenerateResource.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LoadDataSetXml\obj\Debug\ITMO.ADO.NET.LoadDataSetXml.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LoadDataSetXml\obj\Debug\ITMO.ADO.NET.LoadDataSetXml.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LoadDataSetXml\obj\Debug\ITMO.ADO.NET.LoadDataSetXml.pdb

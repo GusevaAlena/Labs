@@ -1,0 +1,10 @@
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataSourcesWizard\bin\Debug\ITMO.ADO.NET.DataSourcesWizard.exe.config
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataSourcesWizard\bin\Debug\ITMO.ADO.NET.DataSourcesWizard.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataSourcesWizard\bin\Debug\ITMO.ADO.NET.DataSourcesWizard.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataSourcesWizard\obj\Debug\ITMO.ADO.NET.DataSourcesWizard.csprojAssemblyReference.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataSourcesWizard\obj\Debug\ITMO.ADO.NET.DataSourcesWizard.Properties.Resources.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataSourcesWizard\obj\Debug\ITMO.ADO.NET.DataSourcesWizard.csproj.GenerateResource.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataSourcesWizard\obj\Debug\ITMO.ADO.NET.DataSourcesWizard.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataSourcesWizard\obj\Debug\ITMO.ADO.NET.DataSourcesWizard.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataSourcesWizard\obj\Debug\ITMO.ADO.NET.DataSourcesWizard.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.DataSourcesWizard\obj\Debug\ITMO.ADO.NET.DataSourcesWizard.Form1.resources
