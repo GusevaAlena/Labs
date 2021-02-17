@@ -1,0 +1,7 @@
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.Linq_Student\obj\Debug\ITMO.ADO.NET.Linq_Student.csprojAssemblyReference.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.Linq_Student\obj\Debug\ITMO.ADO.NET.Linq_Student.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.Linq_Student\bin\Debug\ITMO.ADO.NET.Linq_Student.exe.config
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.Linq_Student\bin\Debug\ITMO.ADO.NET.Linq_Student.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.Linq_Student\bin\Debug\ITMO.ADO.NET.Linq_Student.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.Linq_Student\obj\Debug\ITMO.ADO.NET.Linq_Student.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.Linq_Student\obj\Debug\ITMO.ADO.NET.Linq_Student.pdb

@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.SavingDataSetX
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.LoadDataSetXml", "ITMO.ADO.NET.LoadDataSetXml\ITMO.ADO.NET.LoadDataSetXml.csproj", "{968BA863-8C9E-4F10-9BA7-A8BEAF5D71EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Linq_Student", "ITMO.ADO.NET.Linq_Student\ITMO.ADO.NET.Linq_Student.csproj", "{87C8915F-0DFA-4380-B0BE-5968B0453C2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{968BA863-8C9E-4F10-9BA7-A8BEAF5D71EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{968BA863-8C9E-4F10-9BA7-A8BEAF5D71EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{968BA863-8C9E-4F10-9BA7-A8BEAF5D71EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C8915F-0DFA-4380-B0BE-5968B0453C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C8915F-0DFA-4380-B0BE-5968B0453C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C8915F-0DFA-4380-B0BE-5968B0453C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C8915F-0DFA-4380-B0BE-5968B0453C2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
