@@ -1,0 +1,10 @@
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsqlSproc\bin\Debug\ITMO.ADO.NET.LINQsqlSproc.exe.config
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsqlSproc\bin\Debug\ITMO.ADO.NET.LINQsqlSproc.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsqlSproc\bin\Debug\ITMO.ADO.NET.LINQsqlSproc.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsqlSproc\obj\Debug\ITMO.ADO.NET.LINQsqlSproc.csprojAssemblyReference.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsqlSproc\obj\Debug\ITMO.ADO.NET.LINQsqlSproc.Form1.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsqlSproc\obj\Debug\ITMO.ADO.NET.LINQsqlSproc.Properties.Resources.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsqlSproc\obj\Debug\ITMO.ADO.NET.LINQsqlSproc.csproj.GenerateResource.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsqlSproc\obj\Debug\ITMO.ADO.NET.LINQsqlSproc.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsqlSproc\obj\Debug\ITMO.ADO.NET.LINQsqlSproc.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsqlSproc\obj\Debug\ITMO.ADO.NET.LINQsqlSproc.pdb

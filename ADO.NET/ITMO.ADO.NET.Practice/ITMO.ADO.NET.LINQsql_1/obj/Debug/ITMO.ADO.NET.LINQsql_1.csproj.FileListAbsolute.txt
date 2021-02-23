@@ -1,0 +1,10 @@
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsql_1\bin\Debug\ITMO.ADO.NET.LINQsql_1.exe.config
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsql_1\bin\Debug\ITMO.ADO.NET.LINQsql_1.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsql_1\bin\Debug\ITMO.ADO.NET.LINQsql_1.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsql_1\obj\Debug\ITMO.ADO.NET.LINQsql_1.csprojAssemblyReference.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsql_1\obj\Debug\ITMO.ADO.NET.LINQsql_1.Form1.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsql_1\obj\Debug\ITMO.ADO.NET.LINQsql_1.Properties.Resources.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsql_1\obj\Debug\ITMO.ADO.NET.LINQsql_1.csproj.GenerateResource.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsql_1\obj\Debug\ITMO.ADO.NET.LINQsql_1.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsql_1\obj\Debug\ITMO.ADO.NET.LINQsql_1.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.Practice\ITMO.ADO.NET.LINQsql_1\obj\Debug\ITMO.ADO.NET.LINQsql_1.pdb
