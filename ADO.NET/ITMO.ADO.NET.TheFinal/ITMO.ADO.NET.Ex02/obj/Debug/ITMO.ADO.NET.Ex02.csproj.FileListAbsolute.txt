@@ -1,0 +1,12 @@
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\ITMO.ADO.NET.Ex02\bin\Debug\ITMO.ADO.NET.Ex02.exe.config
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\ITMO.ADO.NET.Ex02\bin\Debug\ITMO.ADO.NET.Ex02.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\ITMO.ADO.NET.Ex02\bin\Debug\ITMO.ADO.NET.Ex02.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\ITMO.ADO.NET.Ex02\obj\Debug\ITMO.ADO.NET.Ex02.csprojAssemblyReference.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\ITMO.ADO.NET.Ex02\obj\Debug\ITMO.ADO.NET.Ex02.Properties.Resources.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\ITMO.ADO.NET.Ex02\obj\Debug\ITMO.ADO.NET.Ex02.csproj.GenerateResource.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\ITMO.ADO.NET.Ex02\obj\Debug\ITMO.ADO.NET.Ex02.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\ITMO.ADO.NET.Ex02\obj\Debug\ITMO.ADO.NET.Ex02.exe
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\ITMO.ADO.NET.Ex02\obj\Debug\ITMO.ADO.NET.Ex02.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\ITMO.ADO.NET.Ex02\obj\Debug\ITMO.ADO.NET.Ex02.ClientForm.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\ITMO.ADO.NET.Ex02\obj\Debug\ITMO.ADO.NET.Ex02.EmployeeForm.resources
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\ITMO.ADO.NET.Ex02\obj\Debug\ITMO.ADO.NET.Ex02.StartForm.resources

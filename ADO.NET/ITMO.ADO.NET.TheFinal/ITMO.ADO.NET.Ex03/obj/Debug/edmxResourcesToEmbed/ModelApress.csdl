@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ApressFinancialModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <ComplexType Name="ufn_ReturnTransactions_Result">
+    <Property Name="TransactionId" Type="Int64" />
+    <Property Name="CustomerId" Type="Int64" />
+    <Property Name="TransactionDescription" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="DateEntered" Type="DateTime" />
+    <Property Name="Amount" Type="Decimal" Precision="19" Scale="4" />
+  </ComplexType>
+  <EntityType Name="Customers">
+    <Key>
+      <PropertyRef Name="CustomerId" />
+    </Key>
+    <Property Name="CustomerId" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CustomerTitleId" Type="Int32" Nullable="false" />
+    <Property Name="CustomerFirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CustomerOtherInitials" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="CustomerLastName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="AddressId" Type="Int64" Nullable="false" />
+    <Property Name="AccountNumber" Type="String" MaxLength="15" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="AccountTypeId" Type="Int32" Nullable="false" />
+    <Property Name="CleareBalance" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="UncleareBalance" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="DateAdded" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="Transactions" Relationship="Self.FK_Customers_Transactions" FromRole="Customers" ToRole="Transactions" />
+  </EntityType>
+  <EntityType Name="CustomersProducts">
+    <Key>
+      <PropertyRef Name="CustomerFinancialProductId" />
+    </Key>
+    <Property Name="CustomerFinancialProductId" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CustomerId" Type="Int64" Nullable="false" />
+    <Property Name="FinantialProductId" Type="Int64" Nullable="false" />
+    <Property Name="AmountToCollect" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="Frequency" Type="Int16" Nullable="false" />
+    <Property Name="LastCollected" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="LastCollection" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Renewable" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Shares">
+    <Key>
+      <PropertyRef Name="ShareID" />
+    </Key>
+    <Property Name="ShareID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ShareDesc" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ShareTickerID" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="CurrentPrice" Type="Decimal" Precision="18" Scale="5" Nullable="false" />
+    <NavigationProperty Name="Transactions" Relationship="Self.FK_Transactions_Shares" FromRole="Shares" ToRole="Transactions" />
+  </EntityType>
+  <EntityType Name="Transactions">
+    <Key>
+      <PropertyRef Name="TransactionId" />
+    </Key>
+    <Property Name="TransactionId" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CustomerId" Type="Int64" Nullable="false" />
+    <Property Name="TransactionType" Type="Int32" Nullable="false" />
+    <Property Name="DateEntered" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Amount" Type="Decimal" Precision="18" Scale="5" Nullable="false" />
+    <Property Name="ReferenceDetails" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Notes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="RelatedShareId" Type="Int64" />
+    <Property Name="RelatedProductId" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="Customers" Relationship="Self.FK_Customers_Transactions" FromRole="Transactions" ToRole="Customers" />
+    <NavigationProperty Name="Shares" Relationship="Self.FK_Transactions_Shares" FromRole="Transactions" ToRole="Shares" />
+  </EntityType>
+  <EntityType Name="TransactionTypes">
+    <Key>
+      <PropertyRef Name="TransactionTypesId" />
+    </Key>
+    <Property Name="TransactionTypesId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TransactionDescription" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="CreditType" Type="Boolean" Nullable="false" />
+    <Property Name="AffectCashBalance" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="FinancialProducts">
+    <Key>
+      <PropertyRef Name="ProductID" />
+      <PropertyRef Name="ProductName" />
+    </Key>
+    <Property Name="ProductID" Type="Int64" Nullable="false" />
+    <Property Name="ProductName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="T1">
+    <Key>
+      <PropertyRef Name="column_1" />
+    </Key>
+    <Property Name="column_1" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="column_2" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="SharePrices">
+    <Key>
+      <PropertyRef Name="SharePriceID" />
+      <PropertyRef Name="ShareID" />
+      <PropertyRef Name="Price" />
+      <PropertyRef Name="PriceDate" />
+    </Key>
+    <Property Name="SharePriceID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ShareID" Type="Int64" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Precision="18" Scale="5" Nullable="false" />
+    <Property Name="PriceDate" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <Association Name="FK_Customers_Transactions">
+    <End Role="Customers" Type="Self.Customers" Multiplicity="1" />
+    <End Role="Transactions" Type="Self.Transactions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customers">
+        <PropertyRef Name="CustomerId" />
+      </Principal>
+      <Dependent Role="Transactions">
+        <PropertyRef Name="CustomerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Transactions_Shares">
+    <End Role="Shares" Type="Self.Shares" Multiplicity="0..1" />
+    <End Role="Transactions" Type="Self.Transactions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shares">
+        <PropertyRef Name="ShareID" />
+      </Principal>
+      <Dependent Role="Transactions">
+        <PropertyRef Name="RelatedShareId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ApressFinancialEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Customers" EntityType="Self.Customers" />
+    <EntitySet Name="CustomersProducts" EntityType="Self.CustomersProducts" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="Shares" EntityType="Self.Shares" />
+    <EntitySet Name="Transactions" EntityType="Self.Transactions" />
+    <EntitySet Name="TransactionTypes" EntityType="Self.TransactionTypes" />
+    <EntitySet Name="FinancialProducts" EntityType="Self.FinancialProducts" />
+    <EntitySet Name="T1" EntityType="Self.T1" />
+    <EntitySet Name="SharePrices" EntityType="Self.SharePrices" />
+    <AssociationSet Name="FK_Customers_Transactions" Association="Self.FK_Customers_Transactions">
+      <End Role="Customers" EntitySet="Customers" />
+      <End Role="Transactions" EntitySet="Transactions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Transactions_Shares" Association="Self.FK_Transactions_Shares">
+      <End Role="Shares" EntitySet="Shares" />
+      <End Role="Transactions" EntitySet="Transactions" />
+    </AssociationSet>
+    <FunctionImport Name="ufn_ReturnTransactions" IsComposable="true" ReturnType="Collection(ApressFinancialModel.ufn_ReturnTransactions_Result)">
+      <Parameter Name="CustID" Mode="In" Type="Int64" />
+    </FunctionImport>
+    <FunctionImport Name="apf_CusMovement" ReturnType="Collection(Decimal)">
+      <Parameter Name="CustId" Mode="In" Type="Int64" />
+      <Parameter Name="FromDate" Mode="In" Type="DateTime" />
+      <Parameter Name="ToDate" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="apf_insCustomer">
+      <Parameter Name="FirstName" Mode="In" Type="String" />
+      <Parameter Name="LastName" Mode="In" Type="String" />
+      <Parameter Name="CustTitle" Mode="In" Type="Int32" />
+      <Parameter Name="CustInitials" Mode="In" Type="String" />
+      <Parameter Name="AddressId" Mode="In" Type="Int32" />
+      <Parameter Name="AccountNumber" Mode="In" Type="String" />
+      <Parameter Name="AccountTypeId" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(ApressFinancialModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(ApressFinancialModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+  </EntityContainer>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+</Schema>

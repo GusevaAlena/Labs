@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище ApressFinancialModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Customers">
+    <Key>
+      <PropertyRef Name="CustomerId" />
+    </Key>
+    <Property Name="CustomerId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CustomerTitleId" Type="int" Nullable="false" />
+    <Property Name="CustomerFirstName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CustomerOtherInitials" Type="nvarchar" MaxLength="10" />
+    <Property Name="CustomerLastName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="AddressId" Type="bigint" Nullable="false" />
+    <Property Name="AccountNumber" Type="nchar" MaxLength="15" Nullable="false" />
+    <Property Name="AccountTypeId" Type="int" Nullable="false" />
+    <Property Name="CleareBalance" Type="money" Nullable="false" />
+    <Property Name="UncleareBalance" Type="money" Nullable="false" />
+    <Property Name="DateAdded" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CustomersProducts">
+    <Key>
+      <PropertyRef Name="CustomerFinancialProductId" />
+    </Key>
+    <Property Name="CustomerFinancialProductId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CustomerId" Type="bigint" Nullable="false" />
+    <Property Name="FinantialProductId" Type="bigint" Nullable="false" />
+    <Property Name="AmountToCollect" Type="money" Nullable="false" />
+    <Property Name="Frequency" Type="smallint" Nullable="false" />
+    <Property Name="LastCollected" Type="datetime" Nullable="false" />
+    <Property Name="LastCollection" Type="datetime" Nullable="false" />
+    <Property Name="Renewable" Type="bit" Nullable="false" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "ApressFinancial.CustomerDetails.FinancialProducts" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="FinancialProducts">
+    <Key>
+      <PropertyRef Name="ProductID" />
+      <PropertyRef Name="ProductName" />
+    </Key>
+    <Property Name="ProductID" Type="bigint" Nullable="false" />
+    <Property Name="ProductName" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "ApressFinancial.dbo.T1" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="T1">
+    <Key>
+      <PropertyRef Name="column_1" />
+    </Key>
+    <Property Name="column_1" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="column_2" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "ApressFinancial.ShareDetails.SharePrices" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="SharePrices">
+    <Key>
+      <PropertyRef Name="SharePriceID" />
+      <PropertyRef Name="ShareID" />
+      <PropertyRef Name="Price" />
+      <PropertyRef Name="PriceDate" />
+    </Key>
+    <Property Name="SharePriceID" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ShareID" Type="bigint" Nullable="false" />
+    <Property Name="Price" Type="numeric" Precision="18" Scale="5" Nullable="false" />
+    <Property Name="PriceDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Shares">
+    <Key>
+      <PropertyRef Name="ShareID" />
+    </Key>
+    <Property Name="ShareID" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ShareDesc" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ShareTickerID" Type="nvarchar" MaxLength="50" />
+    <Property Name="CurrentPrice" Type="numeric" Precision="18" Scale="5" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Transactions">
+    <Key>
+      <PropertyRef Name="TransactionId" />
+    </Key>
+    <Property Name="TransactionId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CustomerId" Type="bigint" Nullable="false" />
+    <Property Name="TransactionType" Type="int" Nullable="false" />
+    <Property Name="DateEntered" Type="datetime" Nullable="false" />
+    <Property Name="Amount" Type="numeric" Precision="18" Scale="5" Nullable="false" />
+    <Property Name="ReferenceDetails" Type="nvarchar" MaxLength="50" />
+    <Property Name="Notes" Type="nvarchar(max)" />
+    <Property Name="RelatedShareId" Type="bigint" />
+    <Property Name="RelatedProductId" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TransactionTypes">
+    <Key>
+      <PropertyRef Name="TransactionTypesId" />
+    </Key>
+    <Property Name="TransactionTypesId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TransactionDescription" Type="nvarchar" MaxLength="30" />
+    <Property Name="CreditType" Type="bit" Nullable="false" />
+    <Property Name="AffectCashBalance" Type="bit" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Customers_Transactions">
+    <End Role="Customers" Type="Self.Customers" Multiplicity="1" />
+    <End Role="Transactions" Type="Self.Transactions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customers">
+        <PropertyRef Name="CustomerId" />
+      </Principal>
+      <Dependent Role="Transactions">
+        <PropertyRef Name="CustomerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Transactions_Shares">
+    <End Role="Shares" Type="Self.Shares" Multiplicity="0..1" />
+    <End Role="Transactions" Type="Self.Transactions" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shares">
+        <PropertyRef Name="ShareID" />
+      </Principal>
+      <Dependent Role="Transactions">
+        <PropertyRef Name="RelatedShareId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="apf_CusMovement" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="CustomerDetails">
+    <Parameter Name="CustId" Type="bigint" Mode="In" />
+    <Parameter Name="FromDate" Type="datetime" Mode="In" />
+    <Parameter Name="ToDate" Type="datetime" Mode="In" />
+  </Function>
+  <Function Name="apf_insCustomer" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="CustomerDetails">
+    <Parameter Name="FirstName" Type="varchar" Mode="In" />
+    <Parameter Name="LastName" Type="varchar" Mode="In" />
+    <Parameter Name="CustTitle" Type="int" Mode="In" />
+    <Parameter Name="CustInitials" Type="varchar" Mode="In" />
+    <Parameter Name="AddressId" Type="int" Mode="In" />
+    <Parameter Name="AccountNumber" Type="nvarchar" Mode="In" />
+    <Parameter Name="AccountTypeId" Type="int" Mode="In" />
+  </Function>
+  <Function Name="fn_diagramobjects" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="int" />
+  <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="ufn_IntCalc" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="TransactionDetails" ReturnType="decimal">
+    <Parameter Name="InterestRate" Type="decimal" Mode="In" />
+    <Parameter Name="Amount" Type="decimal" Mode="In" />
+    <Parameter Name="FromDate" Type="date" Mode="In" />
+    <Parameter Name="ToDate" Type="date" Mode="In" />
+  </Function>
+  <Function Name="ufn_ReturnTransactions" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="TransactionDetails">
+    <Parameter Name="CustID" Type="bigint" Mode="In" />
+    <ReturnType>
+      <CollectionType>
+        <RowType>
+          <Property Name="TransactionId" Type="bigint" />
+          <Property Name="CustomerId" Type="bigint" />
+          <Property Name="TransactionDescription" Type="nvarchar" MaxLength="30" />
+          <Property Name="DateEntered" Type="datetime" />
+          <Property Name="Amount" Type="money" />
+        </RowType>
+      </CollectionType>
+    </ReturnType>
+  </Function>
+  <EntityContainer Name="Хранилище ApressFinancialModelContainer">
+    <EntitySet Name="Customers" EntityType="Self.Customers" Schema="CustomerDetails" store:Type="Tables" />
+    <EntitySet Name="CustomersProducts" EntityType="Self.CustomersProducts" Schema="CustomerDetails" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Shares" EntityType="Self.Shares" Schema="ShareDetails" store:Type="Tables" />
+    <EntitySet Name="Transactions" EntityType="Self.Transactions" Schema="TransactionDetails" store:Type="Tables" />
+    <EntitySet Name="TransactionTypes" EntityType="Self.TransactionTypes" Schema="TransactionDetails" store:Type="Tables" />
+    <EntitySet Name="FinancialProducts" EntityType="Self.FinancialProducts" store:Type="Tables" store:Schema="CustomerDetails">
+      <DefiningQuery>SELECT 
+    [FinancialProducts].[ProductID] AS [ProductID], 
+    [FinancialProducts].[ProductName] AS [ProductName]
+    FROM [CustomerDetails].[FinancialProducts] AS [FinancialProducts]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="T1" EntityType="Self.T1" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [T1].[column_1] AS [column_1], 
+    [T1].[column_2] AS [column_2]
+    FROM [dbo].[T1] AS [T1]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="SharePrices" EntityType="Self.SharePrices" store:Type="Tables" store:Schema="ShareDetails">
+      <DefiningQuery>SELECT 
+    [SharePrices].[SharePriceID] AS [SharePriceID], 
+    [SharePrices].[ShareID] AS [ShareID], 
+    [SharePrices].[Price] AS [Price], 
+    [SharePrices].[PriceDate] AS [PriceDate]
+    FROM [ShareDetails].[SharePrices] AS [SharePrices]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_Customers_Transactions" Association="Self.FK_Customers_Transactions">
+      <End Role="Customers" EntitySet="Customers" />
+      <End Role="Transactions" EntitySet="Transactions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Transactions_Shares" Association="Self.FK_Transactions_Shares">
+      <End Role="Shares" EntitySet="Shares" />
+      <End Role="Transactions" EntitySet="Transactions" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

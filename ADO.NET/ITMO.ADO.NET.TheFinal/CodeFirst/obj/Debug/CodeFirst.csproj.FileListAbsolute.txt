@@ -1,0 +1,12 @@
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\CodeFirst\bin\Debug\CodeFirst.dll.config
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\CodeFirst\bin\Debug\CodeFirst.dll
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\CodeFirst\bin\Debug\CodeFirst.pdb
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\CodeFirst\bin\Debug\EntityFramework.dll
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\CodeFirst\bin\Debug\EntityFramework.xml
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\CodeFirst\obj\Debug\CodeFirst.dll
+S:\Обучение программированию\ADO.NET\Практика\ITMO.ADO.NET.TheFinal\CodeFirst\obj\Debug\CodeFirst.pdb
